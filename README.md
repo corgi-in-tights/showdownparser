@@ -5,6 +5,7 @@ converts the pokemon showdown format to a cobblemon `Pokemon`
 
 
 __this thing vv__
+
 beat em up (Lucario) @ Choice Scarf  
 Ability: Justified  
 Tera Type: Fighting  
@@ -17,4 +18,4 @@ Jolly Nature
 
 
 
-ill probably get to adding it to jitpack one of these days.. just yoink the files till then, a credit or two would be appreciated so people know about this
+ill probably get to adding it to jitpack one of these days.. just yoink the files till then or download the build in releases and include that, a credit or two would be appreciated so people know about this
