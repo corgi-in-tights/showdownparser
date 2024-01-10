@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "showdownparser",
+	"version": "${version}",
+	"name": "Cobblemon Showdown Parser",
+	"description": "A library that parses the showdown format :<",
+	"authors": [
+		"hiscorginess"
+	],
+	"contact": {
+		"homepage": "https://github.com/corgi-in-tights/showdownparser",
+		"sources": "https://github.com/corgi-in-tights/showdownparser"
+	},
+	"license": "MIT",
+	"environment": "*",
+	"entrypoints": {
+		"server": [
+			"dev.reyaan.ShowdownParser"
+		]
+	},
+	"mixins": [
+		"showdownparser.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.24",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"cobblemon": ">=1.4"
+	}
+}
