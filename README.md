@@ -1,7 +1,8 @@
 # showdownparser
 fabric 1.20.1 library
 
-converts the pokemon showdown format to a cobblemon `Pokemon` 
+converts the pokemon showdown format to a cobblemon `Pokemon` using the power of REGEX
+seriously there is a lot of regex.. only the title uses lookaheads and stuff though, rest is pretty basic
 
 
 __this thing vv__
